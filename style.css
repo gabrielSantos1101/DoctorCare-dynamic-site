@@ -269,7 +269,8 @@ body.menu-expanded .menu {
 }
 
 .menu .button:hover {
-  background-color: var(--primary-color);
+  outline: 1px solid white; /*Usado para adicionar borda interna*/
+  background-color: transparent;
   color: white;
 
   filter: brightness(1.3);
