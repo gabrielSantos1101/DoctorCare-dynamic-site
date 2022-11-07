@@ -8,7 +8,7 @@
 
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 
-- site final: [doctor-care](https://Gabriel-santos/DoctorCare-dynamic-site/)
+- site final: [doctor-care](https://Gabriel-Santos01.github.io/DoctorCare-dynamic-site/)
 
 ## 🚀 Tecnologias
 
