@@ -26,5 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Autor
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/gabriel-santos-bb4a10188/">Gabriel Santos</a> ☕</h3>
 
