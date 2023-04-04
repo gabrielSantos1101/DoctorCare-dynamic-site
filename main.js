@@ -41,7 +41,7 @@ function activateMenuAtCurrentSection(section) {
 }
 
 function showNavOnScroll() {
-  if (scrollY > 0) {
+  if (windown.scrollY > 0) {
     navigation.classList.add('scroll')
   } else {
     navigation.classList.remove('scroll')
@@ -49,7 +49,7 @@ function showNavOnScroll() {
 }
 
 function showBackToTopButtonOnScroll() {
-  if (scrollY > 450) {
+  if (windown.scrollY > 450) {
     backToTopButton.classList.add('show')
   } else {
     backToTopButton.classList.remove('show')
